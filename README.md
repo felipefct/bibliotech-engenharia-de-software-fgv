@@ -18,3 +18,4 @@ O objetivo deste projeto é:
 * `/src/gerenciador_original.py`: Código legado fornecido.
 * `/src/emprestimo_refatorado.py`: Código refatorado aplicando SOLID, SRP, OCP e DIP.
 * `/biblioteca.db`: Banco de dados SQLite contendo o acervo e usuários para testes.# pa2-engenharia-de-software-fgv
+# pa2-engenharia-de-software-fgv
